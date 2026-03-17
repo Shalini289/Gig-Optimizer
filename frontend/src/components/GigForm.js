@@ -25,7 +25,7 @@ console.log(data);
 
   const handleSubmit = async () => {
 
-  const res = await fetch("http://localhost:5000/api/optimize", {
+  const res = await fetch("https://gig-optimizer-5.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
