@@ -1,0 +1,13 @@
+.copyBtn{
+margin-left:10px;
+padding:5px 10px;
+
+background:#22d3ee;
+border:none;
+
+border-radius:6px;
+
+font-size:12px;
+
+cursor:pointer;
+}

@@ -1,0 +1,22 @@
+.tags{
+display:flex;
+flex-wrap:wrap;
+gap:8px;
+margin-top:10px;
+}
+
+.tag{
+
+background:#22d3ee;
+
+color:#020617;
+
+padding:6px 12px;
+
+border-radius:20px;
+
+font-size:12px;
+
+font-weight:600;
+
+}
